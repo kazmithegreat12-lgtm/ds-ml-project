@@ -32,6 +32,8 @@ Start with the assignment, set up your board, then use the example notebook as a
 | [**Assignment**](01_assignment.md) | The project brief: timeline, milestones, project options, deliverables, and things to think about. |
 | [**Kanban Board**](02_kanban_board.md) | Step-by-step setup of a GitHub project board to plan and track your work. |
 | [**EDA and Modeling**](03_eda-and-modeling.ipynb) | Worked example of selecting features, doing minimal cleaning, and training a simple model. |
+| [**Kickstarter Project**](04_kickstarter-success.ipynb) | Our project: predicting Kickstarter campaign success before launch, from data to tuned model, error analysis and a what-if demo. |
+| [**Stakeholder Presentation**](stakeholder_presentation/) | The 15-slide deck for non-technical stakeholders (PowerPoint and PDF), with the slide outline and speaker script. |
 
 ### Additional Folders and Files
 
